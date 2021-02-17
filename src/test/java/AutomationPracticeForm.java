@@ -19,8 +19,8 @@ public class AutomationPracticeForm {
     @Test
     void fillFormTest() {
 
-        String name = "Dima";
-        String surname = "Ivanov";
+        String name = "Masha";
+        String surname = "Ivanova";
         String email = "dddd@mfff.ru";
         String phone = "0123456789";
         String address = "address";
